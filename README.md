@@ -1,76 +1,12 @@
 #gangbooter/zazapinger
-title bye gang booter
-echo off
-cls
-mode con lines=26 cols=70
-echo [40;32m
-echo                       .
-echo                       00
-echo                       000
-echo                      00000                  .
-echo                      000000                00
-echo       .             0000000              0000
-echo       0000          0000000            00000
-echo       00000         00000000          000000
-echo        000000       00000000        0000000
-echo         0000000     00000000      000000000
-echo         0000000      0000000     000000000
-echo          0000000     00000000   000000000
-echo           000000000  0000000   00000000
-echo             0000000   000000  0000000            .
-echo               000000  00000  0000000        000000
-echo    .           000000  0000  000000    000000000
-echo     0000000     000000 000   0000   00000000000
-echo      0000000000   0000  00  0000  00000000000
-echo        00000000000  000 00 000  0000000000
-echo           00000000000 00 0 0  000000000
-echo              00000000000000 0000
-echo                       000000000
-echo                     000     000000
-echo.                                                                                         
-set /p IP=[40;37mWhich IP Address Will Now Be booted
-:v6
-echo [47;30m
-PING -n 1 %IP% | FIND "TTL="
-IF ERRORLEVEL 1 (echo [41;37m-------------------------- %IP%now it is bye bye  --------------------[40;37m)
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-echo [42;37m
-PING -n 1 %IP% | FIND "TTL="
-IF ERRORLEVEL 1 (echo [41;37m-------------------------- %IP% it is bye bye --------------------[40;37m)
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-echo [43;37m
-PING -n 1 %IP% | FIND "TTL="
-IF ERRORLEVEL 1 (echo [41;37m-------------------------- %IP% it is bye bye --------------------[40;37m)
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-ping localhost -n 1 >nul
-echo [44;37m
-PING -n 1 %IP%
+This is the gangbooter also known as zazapinger me and my friend we coded just like the other one i coded 
+i hope ya'll enjoy this 
+fast download https://anonfiles.com/V4RbR7n7z4/ExpliityS_Weed_Ip_Pinger3_bat
+up here just download this or  download the green code up top
+1# download green code one or anonymouse file up top
+2# click Readme.md to see other's and credits
+3# after all of that click the pinger which is the batch install 
+4# put in ip address you want to show off or what ever
+5# your mostly done with everything
+Thanks good by
+Kareox#8019 bye gang#0503
